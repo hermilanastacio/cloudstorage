@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cloudstorage/static/css/main.dee62257.chunk.css",
+    "main.js": "/cloudstorage/static/js/main.2c40e126.chunk.js",
+    "main.js.map": "/cloudstorage/static/js/main.2c40e126.chunk.js.map",
+    "runtime-main.js": "/cloudstorage/static/js/runtime-main.498fa401.js",
+    "runtime-main.js.map": "/cloudstorage/static/js/runtime-main.498fa401.js.map",
+    "static/js/2.5f48b180.chunk.js": "/cloudstorage/static/js/2.5f48b180.chunk.js",
+    "static/js/2.5f48b180.chunk.js.map": "/cloudstorage/static/js/2.5f48b180.chunk.js.map",
+    "index.html": "/cloudstorage/index.html",
+    "precache-manifest.b9620fde65cfb6da52adb85a016b8930.js": "/cloudstorage/precache-manifest.b9620fde65cfb6da52adb85a016b8930.js",
+    "service-worker.js": "/cloudstorage/service-worker.js",
+    "static/css/main.dee62257.chunk.css.map": "/cloudstorage/static/css/main.dee62257.chunk.css.map",
+    "static/js/2.5f48b180.chunk.js.LICENSE.txt": "/cloudstorage/static/js/2.5f48b180.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/cloudstorage/static/media/loading.9aed57e1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498fa401.js",
+    "static/js/2.5f48b180.chunk.js",
+    "static/css/main.dee62257.chunk.css",
+    "static/js/main.2c40e126.chunk.js"
+  ]
+}
