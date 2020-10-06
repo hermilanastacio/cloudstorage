@@ -10,10 +10,8 @@ const Callback: React.FC = () => {
   let code = new URLSearchParams(window.location.search).get("code");
 
   if(!code) {
-    alert('IF')
     history.push('/login');
   } else {
-    alert('ELSE')
     let baseUrl = 'https://oauth2.googleapis.com/token';
     let grant_type = 'authorization_code';
       
