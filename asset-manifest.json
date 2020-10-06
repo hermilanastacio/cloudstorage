@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cloudstorage/static/css/main.d218e3f4.chunk.css",
-    "main.js": "/cloudstorage/static/js/main.9cf8e701.chunk.js",
-    "main.js.map": "/cloudstorage/static/js/main.9cf8e701.chunk.js.map",
+    "main.js": "/cloudstorage/static/js/main.35570bc5.chunk.js",
+    "main.js.map": "/cloudstorage/static/js/main.35570bc5.chunk.js.map",
     "runtime-main.js": "/cloudstorage/static/js/runtime-main.498fa401.js",
     "runtime-main.js.map": "/cloudstorage/static/js/runtime-main.498fa401.js.map",
     "static/js/2.34bc1583.chunk.js": "/cloudstorage/static/js/2.34bc1583.chunk.js",
     "static/js/2.34bc1583.chunk.js.map": "/cloudstorage/static/js/2.34bc1583.chunk.js.map",
     "index.html": "/cloudstorage/index.html",
-    "precache-manifest.7cb680ba3c2a279c93766b12d5b871ec.js": "/cloudstorage/precache-manifest.7cb680ba3c2a279c93766b12d5b871ec.js",
+    "precache-manifest.5bba2b69ef43b447b97694deef10d1dc.js": "/cloudstorage/precache-manifest.5bba2b69ef43b447b97694deef10d1dc.js",
     "service-worker.js": "/cloudstorage/service-worker.js",
     "static/css/main.d218e3f4.chunk.css.map": "/cloudstorage/static/css/main.d218e3f4.chunk.css.map",
     "static/js/2.34bc1583.chunk.js.LICENSE.txt": "/cloudstorage/static/js/2.34bc1583.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.498fa401.js",
     "static/js/2.34bc1583.chunk.js",
     "static/css/main.d218e3f4.chunk.css",
-    "static/js/main.9cf8e701.chunk.js"
+    "static/js/main.35570bc5.chunk.js"
   ]
 }
