@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5b7c98c6c0df9a7bfd6e0224590c52e",
+    "revision": "f6b2fca5399bdc18119493a4a6fe99d6",
     "url": "/cloudstorage/index.html"
   },
   {
-    "revision": "8a338ef201e34ce6c286",
+    "revision": "44ffcd25c8f2d1a289ea",
     "url": "/cloudstorage/static/css/main.d218e3f4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cloudstorage/static/js/2.5f48b180.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a338ef201e34ce6c286",
-    "url": "/cloudstorage/static/js/main.647cd703.chunk.js"
+    "revision": "44ffcd25c8f2d1a289ea",
+    "url": "/cloudstorage/static/js/main.1af55ac2.chunk.js"
   },
   {
     "revision": "efbed47ff0034846d98f",
