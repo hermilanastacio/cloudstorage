@@ -7,12 +7,11 @@ const Callback: React.FC = () => {
 
   let history = useHistory();
 
-  let code = new URLSearchParams(location.search).get("code");
+  let code = new URLSearchParams(window.location.search).get("code");
 
   if(!code) {
     alert('IF')
     history.push('/login');
-
   } else {
     alert('ELSE')
     let baseUrl = 'https://oauth2.googleapis.com/token';
