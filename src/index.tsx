@@ -4,10 +4,10 @@ import './index.css';
 import App from './App';
 import Callback from './Callback';
 import Dashboard from './Dashboard';
-import { HashRouter, Route } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 
 ReactDOM.render(
-  <HashRouter basename="/">
+  <BrowserRouter basename={process.env.REACT_PUBLIC_URL}>
     <Route exact path="/">
       <App />
     </Route>
@@ -17,6 +17,6 @@ ReactDOM.render(
     <Route path="/dashboard">
       <Dashboard />
     </Route>
-  </HashRouter>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
