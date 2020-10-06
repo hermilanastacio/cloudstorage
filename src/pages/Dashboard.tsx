@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import { IFile } from './common/interfaces';
+import { IFile } from '../common/interfaces';
 
 const Dashboard: React.FC = () => {
   const [file, setFile] = useState<Array<IFile>>();
@@ -26,7 +26,7 @@ const Dashboard: React.FC = () => {
   },[]);
 
   return(
-    <div>
+    <div className="App">
       {file && file.map(f => {
         return(
           <div 
